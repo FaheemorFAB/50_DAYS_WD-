@@ -1,4 +1,4 @@
-# 50_DAYS_WD-
+# 50_DAYS_WebDev-
 **Welcome to the 50 Days Web Development Learning Repository!**
 
 This repository is designed to guide you through a structured 50-day journey to learn web development from scratch. Whether you're a complete beginner or looking to refresh your skills, this repository is here to help you on your learning journey.
